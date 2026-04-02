@@ -21,14 +21,6 @@ It demonstrates modern web design techniques including flexbox layout, hover eff
 
 ---
 
-## 📂 Project Structure
-
-profile-card/
-│── index.html  
-│── style.css  
-
----
-
 ## 📸 Preview
 A simple profile card displaying user information such as image, name, role, and description with interactive styling.
 
